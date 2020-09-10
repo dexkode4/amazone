@@ -66,3 +66,9 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+Hi my name is Kabiru haruna i'm making this quick video so that you can easily know a little about me.I'm a software engineer trainee at Decagon institute. I'm from nasarawa state although I was born and raised in lagos state . I graduated from the university of ilorin kwara state with a degree in bachelor of science statistics.
+During my nysc service year i was opportune to take a leadership role as a mathematics tutor in a local government owned school in the city zungeru ,Niger state. Despite the language barrier I was able to communicate and get along with folks in the community.
+My hobbies are quite few, I enjoy watching movies , playing video games, talking about tech related topics and coding. Coding welcomes anyone with open arms , no matter who you are or where you're from . All you need is a notepad and the world becomes your canvas. Just like how coding allowed me to be more open to the world, I want to help make the world more open and connected.
+
+Decagon has showed me that there isn't any limit to what you can achieve and the ability to learn not just tech stuff but anything. and also adapt to changes.
